@@ -16,6 +16,7 @@
 
 """Used in GithubActions to extract the release name from the full tag ref"""
 
+
 import argparse
 import logging
 import os
